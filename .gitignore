@@ -1,0 +1,12 @@
+# Project exclude paths
+/.gradle/
+/Simple Search Engine/task/build/
+/Simple Search Engine/task/out/production/classes/
+/Topics/The Map interface/Creating a map/out/
+/Topics/The Map interface/Creating a map/out/production/classes/
+/Topics/The Map interface/Theory/out/
+/Topics/The Map interface/Theory/out/production/classes/
+/Topics/The Set interface/Creating a set/out/
+/Topics/The Set interface/Creating a set/out/production/classes/
+/Topics/The Set interface/Theory/out/
+/Topics/The Set interface/Theory/out/production/classes/
